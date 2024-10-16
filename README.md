@@ -7,6 +7,29 @@
 
 Wordlist: [https://github.com/t13ee/Wifi-BruteForce/releases/download/BETA/wordlist.zip](https://github.com/t13ee/Wifi-BruteForce/releases/download/BETA/wordlist.zip)
 
+## Requirements
+- USB WIFI
+- Python3
+
+
+## Install and Setup
+```
+sudo apt update
+sudo apt install aircrack-ng 
+```
+
+```
+git clone https://github.com/t13ee/Wifi-BruteForce.git
+cd ./Wifi-BruteForce
+pip install -r requirements.txt
+chmod +x ./attack
+
+# Download wordlist
+...
+
+```
+
+
 ## Tutorial
 ```
 usage: attack [-h] [--name NAME] [--timeout-mac TIMEOUT_MAC] [--timeout-packet TIMEOUT_PACKET] [--wordlist WORDLIST] [--limit LIMIT]
