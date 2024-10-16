@@ -19,8 +19,7 @@ sudo apt install aircrack-ng
 ```
 
 ```
-git clone https://github.com/t13ee/Wifi-BruteForce.git
-cd ./Wifi-BruteForce
+git clone https://github.com/t13ee/Wifi-BruteForce.git && cd ./Wifi-BruteForce
 pip install -r requirements.txt
 chmod +x ./attack
 
