@@ -5,7 +5,7 @@
 - Author: Sylpha (T-13ee)
 - Version: BETA
 
-Wordlist: [https://github.com/t13ee/Wifi-BruteForce/releases/download/BETA/wordlist.zip]()
+Wordlist: [https://github.com/t13ee/Wifi-BruteForce/releases/download/BETA/wordlist.zip](https://github.com/t13ee/Wifi-BruteForce/releases/download/BETA/wordlist.zip)
 
 ## Tutorial
 ```
